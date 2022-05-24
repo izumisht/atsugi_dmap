@@ -1,6 +1,6 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "厚木飲み屋マップ",
+  "description": "厚木市内の飲み屋の地図",
   "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSf2WVPeqpz_DyWe53rMz5_oLgAeK_94Kk4Q0_dearzz_sM6rA/viewform?usp=sf_link",
   "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
