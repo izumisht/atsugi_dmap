@@ -880,7 +880,7 @@
     [
       "",
       "餃子",
-      "",
+      "https://izumisht.github.io/atsugi_dmap/IMG_20220619_201553.jpg",
       "35.439246",
       "139.363774",
       "ホンアツ餃子",
@@ -936,7 +936,7 @@
     [
       "",
       "沖縄料理",
-      "",
+      "https://izumisht.github.io/atsugi_dmap/IMG_20220619_202352.jpg",
       "35.438717",
       "139.362216",
       "カチャーシー",
@@ -977,6 +977,25 @@
       "",
       "",
       "https://nikusushi.ne.jp/shoplist/honatsugi/"
+    ],
+    [
+      "",
+      "ピザ",
+      "https://izumisht.github.io/atsugi_dmap/IMG_20220619_201529.jpg",
+      "35.438789",
+      "139.364111",
+      "DUMBO PIZZA FACTORY",
+      "ピザの種類が豊富で質もいい。クラフトビールを始めとして置いてあるお酒も他とは毛色が違うため楽しめる。厚木で飲みながらピザを食べたいならここ。",
+      "",
+      "",
+      "https://dumbo-honatsugi.gorp.jp/"
+    ],
+    [
+      "",
+      "大衆居酒屋",
+      "",
+      "35.448209",
+      "139.355893"
     ]
   ]
 }
